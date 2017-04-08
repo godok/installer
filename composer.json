@@ -16,5 +16,10 @@
     ],
     "extra": {
         "class": "Godok\\Installer\\Plugin"
+    },
+	"autoload": {
+        "psr-4": {
+            "Godok\\Installer\\": "src"
+        }
     }
 }
