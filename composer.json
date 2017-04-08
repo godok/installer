@@ -1,5 +1,5 @@
 {
-    "name": "Godok/Installer",
+    "name": "godok/installer",
     "type": "composer-plugin",
     "require": {
         "composer-plugin-api": "^1.0"
