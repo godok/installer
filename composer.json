@@ -13,7 +13,7 @@
             "name": "fafa",
             "email": "fafa@qq.com"
         }
-    ]
+    ],
     "extra": {
         "class": "Godok\\Installer\\Plugin"
     }
