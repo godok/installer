@@ -14,12 +14,12 @@
             "email": "fafa@qq.com"
         }
     ],
-    "extra": {
-        "class": "Godok\\Installer\\Plugin"
-    },
 	"autoload": {
         "psr-4": {
             "Godok\\Installer\\": "src"
         }
+    },
+	"extra": {
+        "class": "Godok\\Installer\\Plugin"
     }
 }
